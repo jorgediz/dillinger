@@ -12,9 +12,9 @@
       "email": "joe@subprint.com"
     }
   ],
-  "scripts": {
-    "start": "node app.js"
-  },
+#  "scripts": {
+#    "start": "node app.js"
+#  },
   "keywords": [
     "dillinger",
     "markdown",
@@ -25,13 +25,13 @@
     "express",
     "api"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/joemccann/dillinger"
-  },
-  "engines": {
-    "node": "0.8.x"
-  },
+# "repository": {
+#   "type": "git",
+#   "url": "git://github.com/jorgediz/dillinger"
+#  },
+# "engines": {
+#   "node": "0.8.x"
+# },
   "dependencies": {
     "express": "3.0.0alpha4",
     "stylus": ">=0.28.2",
