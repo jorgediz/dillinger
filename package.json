@@ -2,6 +2,10 @@
   "name": "Dillinger",
   "description": "Dillinger, the last Markdown editor you'll ever need, by your's truly, Joe McCann.",
   "version": "0.3.5",
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  },
   "dependencies": {
     "express": "*",
     "stylus": "*",
